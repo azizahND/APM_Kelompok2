@@ -1,0 +1,19 @@
+# Backend (Flask)
+__pycache__/
+*.pyc
+*.pyo
+*.db
+instance/
+venv/
+.env
+*.log
+*.sqlite3
+
+# Frontend (React)
+node_modules/
+build/
+dist/
+.env
+*.log
+.DS_Store
+*.swp
